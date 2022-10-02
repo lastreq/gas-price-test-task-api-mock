@@ -1,1 +1,1 @@
-# gas-price-test-task-api-mock
+Сервис заглушка, отдает gas_price.json
